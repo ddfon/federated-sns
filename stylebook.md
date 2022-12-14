@@ -37,4 +37,11 @@
 
 - For proper nouns: if requested only (open an [issue](https://codeberg.org/ddfon/federated-sns/issues))
 - For title of works: allowed (e.g. *diaspora\**, *BookWyrm*, *PeerTube*)
-- For content/parts of a work: allowed
+- For content/parts of a work: allowed (e.g. Project A: “v1.2.3 When the fox jumped over the lazy dog”; Project B: “v3.4.5 When the Fox Jumped Over the Lazy Dog”)
+
+### When to use *[sic]*
+
+If there are typos, fix it in our copy. Instead of “v1.2.3 realese”, fix it as “v1.2.3 release”.
+
+- Only use *[sic]* if it was intentional and might cause confusion (e.g. issues are opened, or PRs submitted, to correct it)
+- Do not use *[sic]* if it is a proper noun (e.g. project or organisational name)
