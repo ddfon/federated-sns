@@ -45,3 +45,22 @@ If there are typos, fix it in our copy. Instead of “v1.2.3 realese”, fix it 
 
 - Only use *[sic]* if it was intentional and might cause confusion (e.g. issues are opened, or PRs submitted, to correct it)
 - Do not use *[sic]* if it is a proper noun (e.g. project or organisational name)
+
+## Languages
+
+This should not matter for this project, but in case a situation arises, this is our preferred style guide.
+
+### English dialect/variant
+
+Philippine English is preferred (it is a mix of Philippine, Australian, American, and English English). If one is not familiar with Philippine English, the following can be used (in order of preference):
+
+- Australian English
+- English English
+- American English
+
+#### Serial/series comma
+
+Serial, or series, comma (also called as the Oxford and Harvard comma), is a comma placed before *and*, *or*, *and so on*, and *etc.* in a series of more than three items.
+
+1. Use a serial comma
+1. Do not use a serial comma, if it will introduce ambiguity
