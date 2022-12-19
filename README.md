@@ -246,6 +246,10 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
   - Software: *Foundkey* was released by Norm [^foundkey-released]
     - Protocol (first release): ActivityPub
 
+- 2022-11-21
+  - Softare: *AP Groups* was released by Michael Puckett [^apgroups-released]
+    - Protocol (first release): ActivityPub
+
 - 2022-11-24
   - Software: *Takahē* was released Andrew Godwin [^takahe-released]
     - Protocol (first release): ActivityPub
@@ -282,8 +286,9 @@ Submit your information in the [issues](https://codeberg.org/ddfon/federated-sns
 [^ostatus-ostatusorg]: ostatus.org: It's started! (published: 2010-03-04) (archived: [1](https://web.archive.org/web/20100307052403/http://ostatus.org/2010/03/04/its-started) [2](https://archive.ph/0RcK))
 [^ostatus-statusnet]: status.net: Understanding OStatus (published: 2010-03-07) (archived: [1](https://web.archive.org/web/20100310081310/http://status.net/2010/03/07/understanding-ostatus) [2](https://archive.ph/wCkT))
 
-<!-- platforms -->
+<!-- software -->
 [^akkoma-released]: Akkoma repo: [akkoma as it was before rebasing onto the fork](https://akkoma.dev/AkkomaGang/akkoma/releases/tag/pre-rebase) (published: 2022-01-29) (archived: [1](https://web.archive.org/web/20221213072258/https://akkoma.dev/AkkomaGang/akkoma/releases/tag/pre-rebase) [2](https://archive.ph/XrTnD))
+[^apgroups-released]: AP Groups (first mention): [developer update](https://a11y.social/@mpuckett/109382425884043829) (published: 2022-11-21) (archived: [1](https://web.archive.org/web/20221219030625/https://a11y.social/@mpuckett/109382425884043829) [2](https://a11y.social/@mpuckett/109382425884043829))
 [^bookwyrm-released]: PeerTube: [v0.0.1](https://github.com/bookwyrm-social/bookwyrm/releases/tag/v0.0.1) (published: 2020-12-31) (archived: [1](https://web.archive.org/web/20221212093539/https://github.com/bookwyrm-social/bookwyrm/releases/tag/v0.0.1) [2](https://archive.ph/l9sdK))
 [^calckey-released]: Calckey repo: [Calckey release!](https://codeberg.org/thatonecalculator/calckey/releases/tag/v12.117.1-calc) (published: 2022-07-19) (archived: [1](https://web.archive.org/web/20221213072804/https://codeberg.org/thatonecalculator/calckey/releases/tag/v12.117.1-calc) [2](https://archive.ph/jMZub))
 [^diaspora-fla-developer-01]: Diaspora developer: [Fla](https://mastodon.social/@fla/109505236342809127) (published: 2022-12-13) (archived: [1](https://web.archive.org/web/20221213081131/https://mastodon.social/@fla/109505236342809127) [2](https://archive.ph/hyP7j))
