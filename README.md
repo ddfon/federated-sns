@@ -176,16 +176,6 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 
 ### 2018
 
-- 2018-08-17
-  - Protocol: Zot6 [^zap-repo-commit] [^zap-repo-commit-boot]
-
-  - Software: *Zap* was released by Mike Macgirvin [^zap-repo-commit] [^zap-repo-commit-boot]
-    - Protocol (first release): Zot6
-
-- 2018-08-23
-  - Software: *Osada* was released by Mike Macgirvin [^osada-repo-commit] [^osada-repo-commit-boot]
-    - Protocol (first release): Zot6, ActivityPub
-
 - 2018-01-23
   - ActivityPub became an official W3C Recommendation (web standard) [^activitypub-w3c-standard]
 
@@ -196,6 +186,16 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 - 2018-04-19
   - Software: *Misskey* was released by Syuilo [^misskey-released]
     - Protocol (first release): ActivityPub
+
+- 2018-08-17
+  - Protocol: Zot6 [^zap-repo-commit] [^zap-repo-commit-boot]
+
+  - Software: *Zap* was released by Mike Macgirvin [^zap-repo-commit] [^zap-repo-commit-boot]
+    - Protocol (first release): Zot6
+
+- 2018-08-23
+  - Software: *Osada* was released by Mike Macgirvin [^osada-repo-commit] [^osada-repo-commit-boot]
+    - Protocol (first release): Zot6, ActivityPub
 
 - 2018-11-03
   - Software: *PixelFed* was released by Daniel Supernault [^pixelfed-released]
@@ -266,7 +266,7 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
     - Protocol (first release): ActivityPub
 
 - 2022-11-21
-  - Softare: *AP Groups* was released by Michael Puckett [^apgroups-released]
+  - Software: *AP Groups* was released by Michael Puckett [^apgroups-released]
     - Protocol (first release): ActivityPub
 
 - 2022-11-24
