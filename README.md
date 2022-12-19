@@ -178,11 +178,11 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 
 - 2018-08-17
   - Software: *Zap* was released by Mike Macgirvin [^zap-repo-commit] [^zap-repo-commit-boot]
-    - Protocol (first release): Zot/6
+    - Protocol (first release): Zot6
 
 - 2018-08-23
   - Software: *Osada* was released by Mike Macgirvin [^osada-repo-commit] [^osada-repo-commit-boot]
-    - Protocol (first release): Zot/6, ActivityPub
+    - Protocol (first release): Zot6, ActivityPub
 
 - 2018-01-23
   - ActivityPub became an official W3C Recommendation (web standard) [^activitypub-w3c-standard]
@@ -207,6 +207,9 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
   - *Friendica* added ActivityPub protocol federation [^friendica-federation-activitypub] [^sean-tilley-free-network]
 
 ### 2019
+
+- 2019-02-20
+  - *Hubzilla* upgraded Zot to Zot6 protocol [^hubzilla-federation-zot-6]
 
 - 2019-08-20
   - Software: *Hometown* was released by Darius Kazemi [^hometown-released]
@@ -325,6 +328,7 @@ Submit your information in the [issues](https://codeberg.org/ddfon/federated-sns
 [^hometown-released]: Hometown repo: [Hometown v1.0.0 (Mastodon 2.9.3)](https://github.com/hometown-fork/hometown/releases/tag/v1.0.0%2B2.9.3) (published: 2019-08-20) (archived: [1](https://web.archive.org/web/20201111194541/https://github.com/hometown-fork/hometown/releases/tag/v1.0.0%2B2.9.3) [2](https://archive.ph/djAKX))
 [^hubzilla-federation-activitypub-repo]: Hubzilla repo: [provide content-type matching ability for activitypub](https://framagit.org/hubzilla/core/-/commit/15e836b7dd2fed3f97f134928d88e13db1d8a7f4) (published: 2017-07-18) (archived: [1](https://web.archive.org/web/20221211142832/https://framagit.org/hubzilla/core/-/commit/15e836b7dd2fed3f97f134928d88e13db1d8a7f4) [2](https://archive.ph/T3GfO))
 [^hubzilla-federation-activitypub-hackernews]: Hacker News: [zotlabs](https://news.ycombinator.com/item?id=16695616) (published: 2018-03-28) (archived: [1](https://web.archive.org/web/20221211142640/https://news.ycombinator.com/item?id=16695616) [2](https://archive.ph/JVNde))
+[^hubzilla-federation-zot-6]: Hubzilla: [Hubzilla 4.0](https://zotlabs.org/channel/hubzilla-announcements?f=&dend=2019-02-28) (published: 2019-02-20) (archived: [1](https://web.archive.org/web/20221219044201/https://zotlabs.org/channel/hubzilla-announcements?f=&dend=2019-02-28) [2](https://archive.ph/znqTU))
 [^mastodon-federation-activitypub]: Mastodon repo: [v1.6.0rc1](https://github.com/mastodon/mastodon/releases/tag/v1.6.0rc1) (published: 2017-03-09) (archived: [1](https://web.archive.org/web/20220526090411/https://github.com/mastodon/mastodon/releases/tag/v1.6.0rc1) [2](https://archive.ph/jdGMe))
 [^mastodon-federation-ostatus-dropped]: Mastodon repo: [v3.0.0](https://github.com/mastodon/mastodon/releases/tag/v3.0.0) (published: 2019-10-04) (archived: [1](https://web.archive.org/web/20211213175033/https://github.com/mastodon/mastodon/releases/tag/v3.0.0) [2](https://archive.ph/cTf5B))
 [^mastodon-released]: Mastodon repo: [v0.1.0](https://github.com/mastodon/mastodon/releases/tag/v0.1.0) (published: 2016-03-16) (archived: [1](https://web.archive.org/web/20220428170019/https://github.com/mastodon/mastodon/releases/tag/v0.1.0) [2](https://archive.ph/kOCxi))
