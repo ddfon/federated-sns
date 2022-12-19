@@ -147,7 +147,7 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 
 - 2015 early
   - *Redmatrix* was renamed *Hubzilla* [^mike-macgirvin]
-    - Protocol (first release): Zot/6, Diaspora Federation
+    - Protocol (first release): Zot, Diaspora Federation
 
 ### 2016
 
@@ -176,6 +176,14 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 
 ### 2018
 
+- 2018-08-17
+  - Software: *Zap* was released by Mike Macgirvin [^zap-repo-commit] [^zap-repo-commit-boot]
+    - Protocol (first release): Zot/6
+
+- 2018-08-23
+  - Software: *Osada* was released by Mike Macgirvin [^osada-repo-commit] [^osada-repo-commit-boot]
+    - Protocol (first release): Zot/6, ActivityPub
+
 - 2018-01-23
   - ActivityPub became an official W3C Recommendation (web standard) [^activitypub-w3c-standard]
 
@@ -203,6 +211,12 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 - 2019-08-20
   - Software: *Hometown* was released by Darius Kazemi [^hometown-released]
     - Protocol (first release): ActivityPub
+
+- 2019-09-22
+  - *Osada* was discontinued [^osada-discontinued]
+
+- 2019-09-22
+  - *Zap* added ActivityPub protocol federation [^zap-federation-activitypub]
 
 - 2019-10-04
   - *Mastodon* dropped OStatus protocol federation [^mastodon-federation-ostatus-dropped]
@@ -315,6 +329,9 @@ Submit your information in the [issues](https://codeberg.org/ddfon/federated-sns
 [^mastodon-federation-ostatus-dropped]: Mastodon repo: [v3.0.0](https://github.com/mastodon/mastodon/releases/tag/v3.0.0) (published: 2019-10-04) (archived: [1](https://web.archive.org/web/20211213175033/https://github.com/mastodon/mastodon/releases/tag/v3.0.0) [2](https://archive.ph/cTf5B))
 [^mastodon-released]: Mastodon repo: [v0.1.0](https://github.com/mastodon/mastodon/releases/tag/v0.1.0) (published: 2016-03-16) (archived: [1](https://web.archive.org/web/20220428170019/https://github.com/mastodon/mastodon/releases/tag/v0.1.0) [2](https://archive.ph/kOCxi))
 [^misskey-released]: Misskey repo: [0.0.5018](https://github.com/misskey-dev/misskey/releases/tag/0.0.5018) (published: 2018-04-19) (archived: [1](https://web.archive.org/web/20221212083319/https://github.com/misskey-dev/misskey/releases/tag/0.0.5018) [2](https://archive.ph/6JEN7))
+[^osada-discontinued]: Zotlabs.org: [Osada has been discontinued](https://zotlabs.org/page/osada/osada) (published: 2019-09-22) (archived: [1](https://web.archive.org/web/20221219031529/https://zotlabs.org/page/osada/osada) [2](https://zotlabs.org/page/osada/osada))
+[^osada-repo-commit]: Osada repo: [9ce94bd414](https://codeberg.org/zot/osada/commit/9ce94bd414441e1a7d922148603e474ed9a19fb2) (published: 2018-08-23) (archived: [1](https://web.archive.org/web/20221219041936/https://codeberg.org/zot/osada/commit/9ce94bd414441e1a7d922148603e474ed9a19fb2) [2](https://archive.ph/iKnE0))
+[^osada-repo-commit-boot]: Osada repo: [9ce94bd414: boot.php](https://codeberg.org/zot/osada/src/commit/9ce94bd414441e1a7d922148603e474ed9a19fb2/boot.php) (published: 2018-08-23) (archived: [1](https://web.archive.org/web/20221219041533/https://codeberg.org/zot/osada/src/commit/9ce94bd414441e1a7d922148603e474ed9a19fb2/boot.php) [2](https://archive.ph/RVUrk))
 [^peertube-released]: PeerTube: [v1.0.0-beta.1](https://framagit.org/framasoft/peertube/PeerTube/-/tags/v1.0.0-beta.1) (published: 2018-03-20) (archived: [1](https://web.archive.org/web/20221212091551/https://framagit.org/framasoft/peertube/PeerTube/-/tags/v1.0.0-beta.1) [2](https://archive.ph/v3UBg))
 [^pixelfed-released]: Pixelfed repo: [v0.1.9](https://github.com/pixelfed/pixelfed/releases/tag/v0.1.9) (published: 2018-11-03) (archived: [1](https://web.archive.org/web/20221212085523/https://github.com/pixelfed/pixelfed/releases/tag/v0.1.9) [2](https://archive.ph/3ERan))
 [^pleroma-federation-ostatus-dropped]: Pleroma: [Releasing Pleroma 2.0.0](https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/) (published: 2020-03-08) (archived: [1](https://web.archive.org/web/20200308173159/https://pleroma.social/blog/2020/03/08/releasing-pleroma-2-0-0/) [2](https://archive.ph/o7IRa))
@@ -327,8 +344,11 @@ Submit your information in the [issues](https://codeberg.org/ddfon/federated-sns
 [^socialhome-released]: socialhome repo: [0.1.0](https://gitlab.com/jaywink/socialhome/-/tags/v0.1.0) (published: 2017-07-27) (archived: [1](https://web.archive.org/web/20221211134847/https://gitlab.com/jaywink/socialhome/-/tags/v0.1.0) [2](https://archive.ph/6pIFg))
 [^streams-released]: Mike Macgirvin: [Streams](https://macgirvin.com/channel/mike?mid=https://macgirvin.com/item/d0d37b08-8522-480c-b0a1-23bf65bd26d5) (published: 2022-12-03) (archived: [1](https://web.archive.org/web/20221213061916/https://macgirvin.com/channel/mike?mid=https://macgirvin.com/item/d0d37b08-8522-480c-b0a1-23bf65bd26d5) [2](https://archive.ph/uaLKD))
 [^streams-repo]: Streams: [repo](https://codeberg.org/streams/streams) (published: 2022-12-03) (archived: [1](https://web.archive.org/web/20221213061925/https://codeberg.org/streams/streams) [2](https://archive.ph/9Tecn))
-[^takahe-released]: Takahe repo: [0.3.0](https://github.com/jointakahe/takahe/releases/tag/0.3.0) (published: 2022-11-24) (archived: [1](https://web.archive.org/web/20221214082535/https://github.com/jointakahe/takahe/releases/tag/0.3.0) [2](https://archive.ph/jxDYV))
+[^takahe-released]: Takahē repo: [0.3.0](https://github.com/jointakahe/takahe/releases/tag/0.3.0) (published: 2022-11-24) (archived: [1](https://web.archive.org/web/20221214082535/https://github.com/jointakahe/takahe/releases/tag/0.3.0) [2](https://archive.ph/jxDYV))
 [^writefreely-released]: WriteFreely repo: [v0.1](https://github.com/writefreely/writefreely/releases/tag/v0.1.0) (published: 2018-11-10) (archived: [1](https://web.archive.org/web/20221212090157/https://github.com/writefreely/writefreely/releases/tag/v0.1.0) [2](https://archive.ph/3bSPi))
+[^zap-federation-activitypub]: Zotlabs.org: [Supports Zap and ActivityPub](https://zotlabs.org/page/zap/zap) (published: 2019-09-22) (archived: [1](https://web.archive.org/web/20221219031617/https://zotlabs.org/page/zap/zap) [2](https://archive.ph/xfg12))
+[^zap-repo-commit]: Zap repo: [57e75d9332](https://codeberg.org/zot/zap/commit/57e75d933281a07e9572b18142083c6f07616d7d) (published: 2018-08-17) (archived: [1](https://web.archive.org/web/20221219041144/https://codeberg.org/zot/zap/commit/57e75d933281a07e9572b18142083c6f07616d7d) [2](https://archive.ph/kqghv))
+[^zap-repo-commit-boot]: Zap repo: [57e75d9332: boot.php](https://codeberg.org/zot/zap/src/commit/57e75d933281a07e9572b18142083c6f07616d7d/boot.php) (published: 2018-08-17) (archived: [1](https://web.archive.org/web/20221219041204/https://codeberg.org/zot/zap/src/commit/57e75d933281a07e9572b18142083c6f07616d7d/boot.php) [2](https://archive.ph/ux9j5))
 
 <!-- instances -->
 [^identica-louisgray]: louisgray.com: [Identi.ca and the Power of Microbranded Communities](https://blog.louisgray.com/2008/08/identica-and-power-of-microbranded.html) (published: 2008-08-12) (archived: [1](https://web.archive.org/web/20080828030444/http://www.louisgray.com/live/2008/08/identica-and-power-of-microbranded.html) [2](https://web.archive.org/web/20091102221205/https://blog.louisgray.com/2008/08/identica-and-power-of-microbranded.html) [3](https://archive.ph/q5w7T))
