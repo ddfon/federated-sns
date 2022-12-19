@@ -177,6 +177,8 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 ### 2018
 
 - 2018-08-17
+  - Protocol: Zot6 [^zap-repo-commit] [^zap-repo-commit-boot]
+
   - Software: *Zap* was released by Mike Macgirvin [^zap-repo-commit] [^zap-repo-commit-boot]
     - Protocol (first release): Zot6
 
