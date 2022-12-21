@@ -101,7 +101,7 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
   - *Friendika* added Diaspora Federation protocol support [^friendica-federation-diaspora] [^friendica-federation-diaspora-02] [^sean-tilley-free-network]
 
 - 2011-11-12
-  - *Friendika* renamed to*Friendica* [^friendica-rename-friendika]
+  - *Friendika* renamed to *Friendica* [^friendica-rename-friendika]
 
 ### 2012
 
