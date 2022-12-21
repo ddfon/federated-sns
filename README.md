@@ -53,9 +53,13 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 ### 2009
 
 - 2009-08-28
-  - *Laconica* platform/software renamed to *StatusNet* [^gnusocial-rename-laconica-statusnet]
+  - *Laconica* software was renamed to *StatusNet* [^gnusocial-rename-laconica-statusnet]
 
 ### 2010
+
+- 2010-02-22
+  - Instance: *Mozilla* was launched [^mozilla-social-statusnet]
+    - Software: *StatusNet*
 
 - 2010-03-04
   - OStatus protocol replaced the OpenMicroBlogging protocol [^ostatus-ostatusorg] [^ostatus-statusnet] [^danyl-strype]
@@ -83,7 +87,7 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
   - *Mistpark* added OStatus protocol federation [^friendica-federation-ostatus] [^sean-tilley-free-network]
 
 - 2010-11-03
-  - *Mistpark* renamed to *Friendika* [^friendica-rename-mistpark-friendika]
+  - *Mistpark* was renamed to *Friendika* [^friendica-rename-mistpark-friendika]
 
 - 2010-11-23
   - Protocol: Diaspora Federation
@@ -100,8 +104,11 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 - 2011-03-19
   - *Friendika* added Diaspora Federation protocol support [^friendica-federation-diaspora] [^friendica-federation-diaspora-02] [^sean-tilley-free-network]
 
+- 2011-05-01
+  - *Mozilla* instance was renamed to *Social@Mozilla* [^mozilla-social-statusnet]
+
 - 2011-11-12
-  - *Friendika* renamed to *Friendica* [^friendica-rename-friendika]
+  - *Friendika* was renamed to *Friendica* [^friendica-rename-friendika]
 
 ### 2012
 
@@ -132,10 +139,13 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 
 - 2013-06-08
   - *StatusNet* and *Free Social* were merged with *GNU Social* [^gnusocial-statusnet-freesocial] [^sean-tilley-free-network] [^danyl-strype]
-    - *GNU Social* is the surviving platform/software name.
+    - *GNU Social* is the surviving software name.
 
 - 2013-07-12
-  - *Identi.ca* switched from *StatusNet* to *pump.io* platform/software. [^identica-wikipedia] [^danyl-strype]
+  - *Identi.ca* switched from *StatusNet* to *pump.io* software. [^identica-wikipedia] [^danyl-strype]
+
+- 2013-11-20
+  - *Social@Mozilla* instance was shutdown [^mozilla-social-statusnet]
 
 ### 2014
 
@@ -265,6 +275,10 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
   - Software: *Foundkey* was released by Norm [^foundkey-released]
     - Protocol (first release): ActivityPub
 
+- 2022-11-13
+  - Instance: *Vivaldi Social* was launched [^vivaldi-social-launched]
+    - Softare: *Mastodon*
+
 - 2022-11-21
   - Software: *AP Groups* was released by Michael Puckett [^apgroups-released]
     - Protocol (first release): ActivityPub
@@ -360,3 +374,5 @@ Submit your information in the [issues](https://codeberg.org/ddfon/federated-sns
 [^identica-louisgray]: louisgray.com: [Identi.ca and the Power of Microbranded Communities](https://blog.louisgray.com/2008/08/identica-and-power-of-microbranded.html) (published: 2008-08-12) (archived: [1](https://web.archive.org/web/20080828030444/http://www.louisgray.com/live/2008/08/identica-and-power-of-microbranded.html) [2](https://web.archive.org/web/20091102221205/https://blog.louisgray.com/2008/08/identica-and-power-of-microbranded.html) [3](https://archive.ph/q5w7T))
 [^identica-ross-mayfield]: Ross Mayfield's Weblog: [Identi.ca Launches, an Open Source Twitter](https://ross.typepad.com/blog/2008/07/identica-launch.html) (published: 2008-07-02) (archived: [1](https://web.archive.org/web/20080703231414/https://ross.typepad.com/blog/2008/07/identica-launch.html) [2](https://archive.ph/HUrA))
 [^identica-wikipedia]: Wikipedia: [identi.ca](https://en.wikipedia.org/wiki/Identi.ca)
+[^mozilla-social-statusnet]: DDFON: [Ticket #3](https://codeberg.org/ddfon/federated-sns/issues/3)
+[^vivaldi-social-launched]: DDFON: [Ticket #5](https://codeberg.org/ddfon/federated-sns/issues/5)
