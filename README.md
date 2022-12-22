@@ -7,6 +7,7 @@ The **DDFON** (Decentralised Distributed Federated Open Network) **Federated SNS
 ## Table of Contents
 
 - [Historical Timeline](#historical-timeline)
+- [Changelog](#changelog)
 - [Contributing](#contributing)
 - [License](#license)
   - [Suggested attribution](#suggested-attribution)
@@ -17,6 +18,10 @@ The **DDFON** (Decentralised Distributed Federated Open Network) **Federated SNS
 ## Historical Timeline
 
 The historical timeline was moved to [fediverse-history.md](fediverse-history.md).
+
+## Changelog
+
+See: [CHANGELOG.md](CHANGELOG.md)
 
 ## Contributing
 
