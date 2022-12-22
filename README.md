@@ -12,7 +12,7 @@ The **DDFON** (Decentralised Distributed Federated Open Network) **Federated SNS
 - [License](#license)
   - [Suggested attribution](#suggested-attribution)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Acknowledgements \& Attributions](#acknowledgements--attributions)
 - [Recommended lists](#recommended-lists)
 
 ## Historical Timeline
@@ -60,9 +60,11 @@ This project is under a **Creative Commons-Attribution-ShareAlike (CC BY-SA) 4.0
     - 🔱 [@youronlyone@public.garden](https://public.garden/@youronlyone) (powered by *Rebased*)
     - 🦣 [@youronlyone@c.im](https://c.im/@youronlyone) (powered by *Mastodon*)
 
-## Acknowledgements
+## Acknowledgements & Attributions
 
 All the great minds behind, and the awesome developers of, the various fediverse protocols and software. Without them, the fediverse would never have been born.
+
+The [fediverse logo](https://commons.wikimedia.org/wiki/File:Fediverse_logo_proposal.svg) was designed by [Eukombos](https://commons.wikimedia.org/wiki/User:Eukombos) and published on 2018-06-22. It was released to the Public Domain through the Creative Commons [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/deed.en).
 
 ## Recommended lists
 
