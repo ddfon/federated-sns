@@ -17,15 +17,15 @@ The **DDFON** (Decentralised Distributed Federated Open Network) **Federated SNS
 
 ## Historical Timeline
 
-The historical timeline was moved to [fediverse-history.md](fediverse-history.md).
+The historical timeline was moved to [fediverse-history.markdown](fediverse-history.markdown).
 
 ## Changelog
 
-See: [CHANGELOG.md](CHANGELOG.md)
+See: [CHANGELOG.markdown](CHANGELOG.markdown)
 
 ## Contributing
 
-Please see [CONTRIBUTING.md](CONTRIBUTING.md).
+Please see [CONTRIBUTING.markdown](CONTRIBUTING.markdown).
 
 ## License
 
@@ -35,8 +35,8 @@ This project is under a **Creative Commons-Attribution-ShareAlike (CC BY-SA) 4.0
   - Legal code: [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
   - Deed: [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 - Local copies (as of 2022-12-22):
-  - Legal code: [LICENSE.md](LICENSE.md)
-  - Deed: [LICENSE-summary.md](LICENSE-summary.md)
+  - Legal code: [LICENSE.markdown](LICENSE.markdown)
+  - Deed: [LICENSE-summary.markdown](LICENSE-summary.markdown)
 
 ### Suggested attribution
 
