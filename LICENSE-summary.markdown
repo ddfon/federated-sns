@@ -1,6 +1,6 @@
 # Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-(Copied from [CC BY-SA 4.0 International Deed](https://creativecommons.org/licenses/by-sa/4.0/) and converted to markdown on 2022-12-22.)
+(Copied from [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) and converted to markdown on 2022-12-22.)
 
 ---
 
@@ -39,4 +39,4 @@ No warranties are given. The license may not give you all of the permissions nec
 
 ---
 
-(Copied from [CC BY-SA 4.0 International Deed](https://creativecommons.org/licenses/by-sa/4.0/) and converted to markdown on 2022-12-22.)
+(Copied from [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) and converted to markdown on 2022-12-22.)
