@@ -1,1 +1,1 @@
-/home/yuki/repos/ddfon/federated-sns/fediverse-history.markdown
+fediverse-history.markdown
