@@ -162,7 +162,7 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 ### 2016
 
 - 2016-03-16
-  - Software: *Mastodon* was released by {Eugen Rochko [^mastodon-released]
+  - Software: *Mastodon* was released by Eugen Rochko [^mastodon-released]
     - Protocol (first release): OStatus [^sean-tilley-free-network]
 
 - 2016-08-16
