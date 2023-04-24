@@ -277,7 +277,7 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 
 - 2022-11-13
   - Instance: *Vivaldi Social* was launched [^vivaldi-social-launched]
-    - Softare: *Mastodon*
+    - Software: *Mastodon*
 
 - 2022-11-21
   - Software: *AP Groups* was released by Michael Puckett [^apgroups-released]
