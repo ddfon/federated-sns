@@ -3,6 +3,8 @@
 
 The **DDFON** (Decentralised Distributed Federated Open Network) **Federated SNS Historical Timeline** is a simple project of finding and recording key points in the history of the ***fediverse***
 
+Our main repo is at [Codeberg](https://codeberg.org/ddfon/federated-sns/). Please submit PRs, issues, suggestions, in the main repo. Thank you very much!
+
 <!-- omit in toc -->
 ## Table of Contents
 

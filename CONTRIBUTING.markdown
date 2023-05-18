@@ -12,6 +12,8 @@ If you like the project, but just don't have time to contribute, that's fine. Th
 - Write an article about the project
 - Mention the project at local meetups and tell your friends/colleagues
 
+Our main repo is at [Codeberg](https://codeberg.org/ddfon/federated-sns/). Please submit PRs, issues, suggestions, in the main repo. Thank you very much!
+
 <!-- omit in toc -->
 ## Table of Contents
 
