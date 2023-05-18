@@ -294,6 +294,8 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
   - Software: *Streams* was released by Mike Macgirvin [^streams-released]
     - Protocol (first release): Nomad Communications, ActivityPub [^streams-repo]
 
+### 2023
+
 - 2023-05-04
   - Instance: *Mozilla.social* entered private beta [^mozilla-social-private-beta-01] [^mozilla-social-private-beta-02]
     - Software: *Mastodon*
