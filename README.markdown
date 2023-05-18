@@ -43,11 +43,11 @@ This project is under a **Creative Commons-Attribution-ShareAlike (CC BY-SA) 4.0
 ### Suggested attribution
 
 - Titles:
-  - DDFON: Federated SNS (Fediverse) Historical Timeline
-  - DDFON: Federated SNS History
-  - DDFON: Federated SNS Timeline
-  - DDFON: Fediverse History
-  - DDFON: Fediverse Timeline
+  - Federated SNS (Fediverse) Historical Timeline
+  - Federated SNS History
+  - Federated SNS Timeline
+  - Fediverse History
+  - Fediverse Timeline
 - Links:
   - First publication: [https://im.youronly.one/techmagus/kb/ddfon/federated-social-network-timeline-2022346/](https://im.youronly.one/techmagus/kb/ddfon/federated-social-network-timeline-2022346/)
   - Main repository: [https://codeberg.org/ddfon/federated-sns](https://codeberg.org/ddfon/federated-sns)
@@ -55,12 +55,12 @@ This project is under a **Creative Commons-Attribution-ShareAlike (CC BY-SA) 4.0
 
 ## Contact
 
-- Author & maintainer: 스노 (雪亮 Yuki)
-  - 🛖 [https://im.youronly.one](https://im.youronly.one) | 🔏 [Verified](https://youronly.one/?verify=keyoxide)
+- Author & maintainer: ♾️ Yuki (스노 雪亮) 🐬
+  - 🛖 [https://im.youronly.one](https://im.youronly.one) | 🔏 [Verified](https://im.youronly.one/p/verified/)
   - Fediverse presence:
-    - 🌟 [@youronlyone@hashi.icu](https://hashi.icu/@youronlyone) (powered by *Misskey*)
-    - 🔱 [@youronlyone@public.garden](https://public.garden/@youronlyone) (powered by *Rebased*)
     - 🦣 [@youronlyone@c.im](https://c.im/@youronlyone) (powered by *Mastodon*)
+    - 🧮🗝️ [@youronlyone@calkey.social](https://calckey.social/@youronlyone) (powered by *Calckey*)
+    - 👩🏾🗝️ [@youronlyone@hashi.icu](https://hashi.icu/@youronlyone) (powered by *Misskey*)
 
 ## Acknowledgements & Attributions
 
