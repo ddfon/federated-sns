@@ -31,6 +31,9 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 
 ### 2008
 
+- 2008-05-18
+  - First post in the Fediverse was made by Evan Prodromou: “This is my first post.” [^fediverse-first-post-evan-laconica] [^fediverse-first-post-evan-pumpio]
+
 - 2008-07-02
   - Protocol: OpenMicroBlogging [^openmicroblogging-wikipedia] [^danyl-strype]
 
@@ -291,6 +294,10 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
   - Software: *Streams* was released by Mike Macgirvin [^streams-released]
     - Protocol (first release): Nomad Communications, ActivityPub [^streams-repo]
 
+- 2023-05-04
+  - Instance: *Mozilla.social* entered private beta [^mozilla-social-private-beta-01] [^mozilla-social-private-beta-02]
+    - Software: *Mastodon*
+
 ## On updates
 
 This is a living project. I will update it depending on the new information and my available time. If you have information available, kindly provide the relevant links for verification. If I can verify (rel=me; keyoxide; GPG; and other ways to verify your identity) that you are the developer of a protocol, standard, platform/software, a link is no longer needed (though still preferable).
@@ -306,6 +313,8 @@ Submit your information in the [issues](https://codeberg.org/ddfon/federated-sns
 [^coined-identiverse-luke-slater]: Luke Slater: Time for bed. Goodnight Identiverse. Thank you for existing! (published: 2010-03-14) (archived: [1](https://web.archive.org/web/20100315074655/identi.ca/reality))
 [^coined-identiverse-identica]: identi.ca: Notices tagged with identiverse (archived: [1](https://web.archive.org/web/20100523080641/identi.ca/tag/identiverse))
 [^danyl-strype]: Disintermedia: A Brief History of the GNU Social Fediverse and 'The Federation' (published: 2017-04-01) (archived: [1](https://web.archive.org/web/20170406180310/https://www.coactivate.org/projects/disintermedia/blog/2017/04/01/a-brief-history-of-the-gnu-social-fediverse-and-the-federation/) [2](https://web.archive.org/web/20190617225539/coactivate.org/projects/disintermedia/blog/2017/04/01/a-brief-history-of-the-gnu-social-fediverse-and-the-federation) [3](https://archive.ph/zGcfl))
+[^fediverse-first-post-evan-laconica]: Laconica: Evan Prodromou, “[This is my first post.](http://identi.ca/notice/1)” (published: 2008-05-18) (archived: [1](https://web.archive.org/web/20080618164355/http://identi.ca/notice/1))
+[^fediverse-first-post-evan-pumpio]: Pump.io: Even Prodromou, “[This is my first post.](https://identi.ca/evan/note/Y0QwGyc1QYilqqawkDrQlg)” (published: 2008-05-18) (archived: [1](https://web.archive.org/web/20230518083835/https://identi.ca/evan/note/Y0QwGyc1QYilqqawkDrQlg) [2](https://archive.md/y4guW))
 [^mike-macgirvin]: talkplus: The history of Hubzilla (published: 2016-10) (archived: [1](https://web.archive.org/web/20170311080241/www.talkplus.org/blog/2016/the-history-of-hubzilla/) [2](https://archive.ph/cgXSN))
 [^sean-tilley-free-network]: Sean Tilley: [A quick guide to The Free Network](https://medium.com/we-distribute/a-quick-guide-to-the-free-network-c069309f334) (published: 2017-09-24) (archived: [1](https://web.archive.org/web/20221211135120/https://medium.com/we-distribute/a-quick-guide-to-the-free-network-c069309f334) [2](https://archive.ph/d51Nr))
 [^statusnet-cloud]: Black Web: StatusNet Cloud Service Opens To The Public (published: 2010-03-09) (archived: [1](https://web.archive.org/web/20100312095612/https://www.blackweb20.com/2010/03/09/statusnet-cloud-service/))
@@ -375,4 +384,6 @@ Submit your information in the [issues](https://codeberg.org/ddfon/federated-sns
 [^identica-ross-mayfield]: Ross Mayfield's Weblog: [Identi.ca Launches, an Open Source Twitter](https://ross.typepad.com/blog/2008/07/identica-launch.html) (published: 2008-07-02) (archived: [1](https://web.archive.org/web/20080703231414/https://ross.typepad.com/blog/2008/07/identica-launch.html) [2](https://archive.ph/HUrA))
 [^identica-wikipedia]: Wikipedia: [identi.ca](https://en.wikipedia.org/wiki/Identi.ca)
 [^mozilla-social-statusnet]: DDFON: [Ticket #3](https://codeberg.org/ddfon/federated-sns/issues/3)
+[^mozilla-social-private-beta-01]: Mozilla: [@mozilla@mozilla.social](https://mozilla.social/@mozilla/110311038770169363) (published: 2023-05-04) (archived: [1](https://web.archive.org/web/20230518082550/https://mozilla.social/@mozilla/110311038770169363) [2](https://archive.md/nXfnR))
+[^mozilla-social-private-beta-02]: dist://ed: [The internet deserves a better answer to social](https://blog.mozilla.org/en/mozilla/mozilla-social-mastodon-private-beta-announcement/) (published: 2023-05-04) (archived: [1](https://web.archive.org/web/20230518082943/https://blog.mozilla.org/en/mozilla/mozilla-social-mastodon-private-beta-announcement/) [2](https://archive.md/XpJLr))
 [^vivaldi-social-launched]: DDFON: [Ticket #5](https://codeberg.org/ddfon/federated-sns/issues/5)
