@@ -228,7 +228,7 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 
 - 2019-05-06
   - Software: *Lemmy* was released [^lemmy-released]
-    - Protocol (first releases): ActivityPub
+    - Protocol (first release): ActivityPub
 
 - 2019-08-20
   - Software: *Hometown* was released by Darius Kazemi [^hometown-released]
