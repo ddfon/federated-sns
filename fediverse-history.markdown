@@ -226,6 +226,10 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 - 2019-02-20
   - *Hubzilla* upgraded Zot to Zot6 protocol [^hubzilla-federation-zot-6]
 
+- 2019-05-06
+  - Software: *Lemmy* was released [^lemmy-released]
+    - Protocol (first releases): ActivityPub
+
 - 2019-08-20
   - Software: *Hometown* was released by Darius Kazemi [^hometown-released]
     - Protocol (first release): ActivityPub
@@ -276,6 +280,10 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 
 - 2022-08-05
   - Software: *Foundkey* was released by Norm [^foundkey-released]
+    - Protocol (first release): ActivityPub
+
+- 2022-10-30
+  - Software: *Kbin* initial release by Ernest Wiśniewski [^kbin-released-01] [^kbin-released-02]
     - Protocol (first release): ActivityPub
 
 - 2022-11-13
@@ -356,6 +364,9 @@ Submit your information in the [issues](https://codeberg.org/ddfon/federated-sns
 [^hubzilla-federation-activitypub-repo]: Hubzilla repo: [provide content-type matching ability for activitypub](https://framagit.org/hubzilla/core/-/commit/15e836b7dd2fed3f97f134928d88e13db1d8a7f4) (published: 2017-07-18) (archived: [1](https://web.archive.org/web/20221211142832/https://framagit.org/hubzilla/core/-/commit/15e836b7dd2fed3f97f134928d88e13db1d8a7f4) [2](https://archive.ph/T3GfO))
 [^hubzilla-federation-activitypub-hackernews]: Hacker News: [zotlabs](https://news.ycombinator.com/item?id=16695616) (published: 2018-03-28) (archived: [1](https://web.archive.org/web/20221211142640/https://news.ycombinator.com/item?id=16695616) [2](https://archive.ph/JVNde))
 [^hubzilla-federation-zot-6]: Hubzilla: [Hubzilla 4.0](https://zotlabs.org/channel/hubzilla-announcements?f=&dend=2019-02-28) (published: 2019-02-20) (archived: [1](https://web.archive.org/web/20221219044201/https://zotlabs.org/channel/hubzilla-announcements?f=&dend=2019-02-28) [2](https://archive.ph/znqTU))
+[^kbin-released-01]: First instance: [karab.in](https://the-federation.info/node/details/31096) (published: 2022-10-30) (archived: [1](https://web.archive.org/web/20230616120141/https://the-federation.info/node/details/31096) [2](https://archive.md/pCkpZ))
+[^kbin-released-02]: First instance: [karab.in](https://karab.in/stats/content/256) (published: 2022-10-30) (archived: [1](https://web.archive.org/web/20230616115302/https://karab.in/stats/content/256) [2](https://archive.md/vT3Xf))
+[^lemmy-released]: [Lemmy v0.0.5](https://github.com/LemmyNet/lemmy/releases/tag/v0.0.5) (published: 2019-05-06) (archived: [1](https://web.archive.org/web/20230616114124/https://github.com/LemmyNet/lemmy/releases/tag/v0.0.5) [2](https://archive.md/sRnks))
 [^mastodon-federation-activitypub]: Mastodon repo: [v1.6.0rc1](https://github.com/mastodon/mastodon/releases/tag/v1.6.0rc1) (published: 2017-03-09) (archived: [1](https://web.archive.org/web/20220526090411/https://github.com/mastodon/mastodon/releases/tag/v1.6.0rc1) [2](https://archive.ph/jdGMe))
 [^mastodon-federation-ostatus-dropped]: Mastodon repo: [v3.0.0](https://github.com/mastodon/mastodon/releases/tag/v3.0.0) (published: 2019-10-04) (archived: [1](https://web.archive.org/web/20211213175033/https://github.com/mastodon/mastodon/releases/tag/v3.0.0) [2](https://archive.ph/cTf5B))
 [^mastodon-released]: Mastodon repo: [v0.1.0](https://github.com/mastodon/mastodon/releases/tag/v0.1.0) (published: 2016-03-16) (archived: [1](https://web.archive.org/web/20220428170019/https://github.com/mastodon/mastodon/releases/tag/v0.1.0) [2](https://archive.ph/kOCxi))
