@@ -275,7 +275,7 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
     - Protocol (first release): ActivityPub
 
 - 2022-07-19
-  - Software: *Calckey* was released by Kainoa Kanter [^calckey-released]
+  - Software: *Firefish* (f. *Calckey*) was released by Kainoa Kanter [^firefish-released]
     - Protocol (first release): ActivityPub
 
 - 2022-08-05
@@ -342,7 +342,7 @@ Submit your information in the [issues](https://codeberg.org/ddfon/federated-sns
 [^akkoma-released]: Akkoma repo: [akkoma as it was before rebasing onto the fork](https://akkoma.dev/AkkomaGang/akkoma/releases/tag/pre-rebase) (published: 2022-01-29) (archived: [1](https://web.archive.org/web/20221213072258/https://akkoma.dev/AkkomaGang/akkoma/releases/tag/pre-rebase) [2](https://archive.ph/XrTnD))
 [^apgroups-released]: AP Groups (first mention): [developer update](https://a11y.social/@mpuckett/109382425884043829) (published: 2022-11-21) (archived: [1](https://web.archive.org/web/20221219030625/https://a11y.social/@mpuckett/109382425884043829) [2](https://a11y.social/@mpuckett/109382425884043829))
 [^bookwyrm-released]: PeerTube: [v0.0.1](https://github.com/bookwyrm-social/bookwyrm/releases/tag/v0.0.1) (published: 2020-12-31) (archived: [1](https://web.archive.org/web/20221212093539/https://github.com/bookwyrm-social/bookwyrm/releases/tag/v0.0.1) [2](https://archive.ph/l9sdK))
-[^calckey-released]: Calckey repo: [Calckey release!](https://codeberg.org/thatonecalculator/calckey/releases/tag/v12.117.1-calc) (published: 2022-07-19) (archived: [1](https://web.archive.org/web/20221213072804/https://codeberg.org/thatonecalculator/calckey/releases/tag/v12.117.1-calc) [2](https://archive.ph/jMZub))
+[^firefish-released]: Firefish repo: [Firefish release!](https://codeberg.org/thatonecalculator/calckey/releases/tag/v12.117.1-calc) (published: 2022-07-19) (archived: [1](https://web.archive.org/web/20221213072804/https://codeberg.org/thatonecalculator/calckey/releases/tag/v12.117.1-calc) [2](https://archive.ph/jMZub))
 [^diaspora-fla-developer-01]: Diaspora developer: [Fla](https://mastodon.social/@fla/109505236342809127) (published: 2022-12-13) (archived: [1](https://web.archive.org/web/20221213081131/https://mastodon.social/@fla/109505236342809127) [2](https://archive.ph/hyP7j))
 [^diaspora-released]: Diaspora*: Private Alpha Invites Going Out Today (published: 2010-11-23) (archived: [1](https://web.archive.org/web/20111112210132/https://blog.diasporafoundation.org/2010/11/23/private-alpha-released.html))
 [^foundkey-released]: Foundkey repo: [13.0.0-preview1](https://akkoma.dev/FoundKeyGang/FoundKey/src/tag/v13.0.0-preview3/CHANGELOG.md#13-0-0-preview1-2022-08-05) (published: 2022-08-05) (archived: [1](https://web.archive.org/web/20221213074109/https://akkoma.dev/FoundKeyGang/FoundKey/src/tag/v13.0.0-preview3/CHANGELOG.md) [2](https://archive.ph/AS04a))

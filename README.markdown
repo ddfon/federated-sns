@@ -59,7 +59,7 @@ This project is under a **Creative Commons-Attribution-ShareAlike (CC BY-SA) 4.0
   - 🛖 [https://im.youronly.one](https://im.youronly.one) | 🔏 [Verified](https://im.youronly.one/p/verified/)
   - Fediverse presence:
     - 🦣 [@youronlyone@c.im](https://c.im/@youronlyone) (powered by *Mastodon*)
-    - 🧮🗝️ [@youronlyone@calkey.social](https://calckey.social/@youronlyone) (powered by *Calckey*)
+    - 🧮🗝️ [@youronlyone@calkey.social](https://firefish.social/@youronlyone) (powered by *Firefish*)
     - 👩🏾🗝️ [@youronlyone@hashi.icu](https://hashi.icu/@youronlyone) (powered by *Misskey*)
 
 ## Acknowledgements & Attributions
