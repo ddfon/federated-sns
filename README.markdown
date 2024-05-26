@@ -55,7 +55,7 @@ This project is under a **Creative Commons-Attribution-ShareAlike (CC BY-SA) 4.0
 
 ## Contact
 
-- Author & maintainer: ♾️ Yuki (스노 雪亮) 🐬
+- Author & maintainer: ♾️ Yohan Yuki Xieㆍ사요한・謝雪矢（ゆきや）・謝約翰ㆍיהוחנן 🐬
   - 🛖 [https://im.youronly.one](https://im.youronly.one) | 🔏 [Verified](https://im.youronly.one/p/verified/)
   - Fediverse presence:
     - 🦣 [@youronlyone@c.im](https://c.im/@youronlyone) (powered by *Mastodon*)
