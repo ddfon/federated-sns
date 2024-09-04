@@ -1,13 +1,5 @@
 # The DDFON, Open Social Web, Fediverse, Mycelial Web SNS Historical Timeline
 
----
-
-The historical timeline was moved to [mycelial-web-history.markdown](mycelial-web-history.markdown).
-
-The content in this page/file will be removed in the future, please update your bookmarks/links to [mycelial-web-history.markdown](mycelial-web-history.markdown) if you directly linked to this file. Or, much better to link to the main project repository [https://codeberg.org/ddfon/federated-sns](https://codeberg.org/ddfon/federated-sns).
-
----
-
 The DDFON / Mycelial Web SNS (social network service/system) timeline is a simple list of its history. To put it another way, it is a record of how the Mycelial Web came to be. This is only one part of the broader “Open Social Web” and even much larger “Social Web”. For this list, we defined SNS as services meant for posting updates (microblogging, macro-blogging, blogging), uploading images, leaving comments, re-sharing, and liking; or simply, the Mycelial Web (friendly name) or DDFON (Decentralized, Distributed, Federated, Open Network).
 
 <!-- Protocols and services like XMPP and Matrix are part of the Federated Chat grouping. While there is an overlap with the XMPP protocol when it comes to SNS, these platforms/software were not (yet) included (e.g. *Juick*, *Movim*, *Buddycloud*, *Jappix*, and *OneSocialWeb*). -->
