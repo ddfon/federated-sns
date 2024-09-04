@@ -46,12 +46,12 @@ First published in [The Federated SNS Timeline (Fediverse History)](https://im.y
 ### 1999
 
 - 1999-01-04
-  + Protocol: Jabber [^jabber-wikipedia]
+  + Protocol: Jabber [^jabber-xmpp-wikipedia]
 
-  + Software: *jabberd* was released by Jeremie Miller [^jabber-wikipedia]
+  + Software: *jabberd* was released by Jeremie Miller [^jabber-xmpp-wikipedia]
     - Protocol (first release): Jabber
 
-  + Instance: *Jabber.org* [^jabber-wikipedia]
+  + Instance: *Jabber.org* [^jabber-xmpp-wikipedia]
     - Software: *jabberd*
 
 ### 2004
