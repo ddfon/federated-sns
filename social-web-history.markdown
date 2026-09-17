@@ -1,6 +1,6 @@
-# The DDFON, Open Social Web, Fediverse, Mycelial Web SNS Historical Timeline
+# Federated Social Web Historical Timeline
 
-The DDFON / Mycelial Web SNS (social network service/system) timeline is a simple list of its history. To put it another way, it is a record of how the Mycelial Web came to be. This is only one part of the broader “Open Social Web” and even much larger “Social Web”. For this list, we defined SNS as services meant for posting updates (microblogging, macro-blogging, blogging), uploading images, leaving comments, re-sharing, and liking; or simply, the Mycelial Web (friendly name) or DDFON (Decentralized, Distributed, Federated, Open Network).
+The **Federated Social Web Historical Timeline** is a project about recording the history of the open Social Web. To put it another way, it is a record of how the Social Web came to be.
 
 <!-- Protocols and services like XMPP and Matrix are part of the Federated Chat grouping. While there is an overlap with the XMPP protocol when it comes to SNS, these platforms/software were not (yet) included (e.g. *Juick*, *Movim*, *Buddycloud*, *Jappix*, and *OneSocialWeb*). -->
 
@@ -19,17 +19,17 @@ There are also no personal opinions on this list, and no endorsements. This list
 - Feel free to translate this work.
 - Feel free to build upon this work.
 
-As long as the conditions of CC-BY-SA 4.0 International License are met.
+As long as the conditions of CC-BY-SA-4.0 International License are met.
 
 ---
 
-First published in [The Federated SNS Timeline (Fediverse History)](https://im.youronly.one/techmagus/kb/ddfon/federated-social-network-timeline-2022346/) on 2022-12-12 20:22 ACT (UTC+8).
+First published on [The Federated SNS Timeline (Fediverse History)](https://im.youronly.one/techmagus/kb/ddfon/federated-social-network-timeline-2022346/) on 2022-12-12 20:22 ACT (UTC+8).
 
 ---
 
 ## Quick information
 
-(date of launch: mycelium network name (protocol name))
+(date of launch: network name (protocol name))
 
 - 1999-01-04: **Jabber** (*Jabber*)
 - 2004-10: **XMPP** (*XMPP*)
