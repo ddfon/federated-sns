@@ -1,9 +1,7 @@
 <!-- omit in toc -->
-# DDFON, Open Social Web, Fediverse, Mycelial Web SNS Historical Timeline
+# Federated Social Web Historical Timeline
 
-The **DDFON** (Decentralised, Distributed, Federated, Open Network) (friendly name: **Mycelial Web**) **SNS Historical Timeline** is a simple project of finding and recording key points in the history of the DDFONs.
-
-Our main repo is at [Codeberg](https://codeberg.org/ddfon/federated-sns/). Please submit PRs, issues, suggestions, in the main repo. Thank you very much!
+The **Federated Social Web Historical Timeline** is a simple project of finding and recording key points in the history of the open Social Web.
 
 <!-- omit in toc -->
 ## Table of Contents
@@ -19,7 +17,7 @@ Our main repo is at [Codeberg](https://codeberg.org/ddfon/federated-sns/). Pleas
 
 ## Historical Timeline
 
-The historical timeline was moved to [mycelial-web-history.markdown](mycelial-web-history.markdown).
+The historical timeline was moved to [social-web-history.markdown](social-web-history.markdown).
 
 ## Changelog
 
@@ -31,7 +29,7 @@ Please see [CONTRIBUTING.markdown](CONTRIBUTING.markdown).
 
 ## License
 
-This project is under a **Creative Commons-Attribution-ShareAlike (CC BY-SA) 4.0 International License**.
+This project is under a **Creative Commons Attribution-ShareAlike 4.0 International License** (SPDX: CC-BY-SA-4.0).
 
 - License links:
   + Legal code: [Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
@@ -43,27 +41,26 @@ This project is under a **Creative Commons-Attribution-ShareAlike (CC BY-SA) 4.0
 ### Suggested attribution
 
 - Titles:
-  + DDFON Historical Timeline
-  + Mycelial Web Historical Timeline
+  + Federated Social Web Historical Timeline
+  + Social Web Historical Timeline
   + Federated SNS History
   + Federated SNS Timeline
-  + DDFON History
-  + Mycelial Web History
-  + DDFON Timeline
-  + Mycelial Web Timeline
+  + Social Web History
+  + Open Social Web History
+  + Social Web Timeline
+  + Open Social Web Timeline
 - Links:
   + First publication: [https://im.youronly.one/techmagus/kb/ddfon/federated-social-network-timeline-2022346/](https://im.youronly.one/techmagus/kb/ddfon/federated-social-network-timeline-2022346/)
-  + Main repository: [https://codeberg.org/ddfon/federated-sns](https://codeberg.org/ddfon/federated-sns)
-  + Mirror repository: [https://github.com/ddfon/federated-sns](https://github.com/ddfon/federated-sns)
+  + Main repository: [https://github.com/ddfon/federated-sns](https://github.com/ddfon/federated-sns)
+  + Old repository: [https://codeberg.org/ddfon/federated-sns](https://codeberg.org/ddfon/federated-sns)
 
 ## Contact
 
-- Author & maintainer: ♾️ Yohan Yukiya Sese-Cunetaㆍ사요한・謝雪矢（ゆきや）・謝約翰ㆍיהוחנן 🐬
+- Author & maintainer: Yohan Yukiya Sese Cuneta 사요한 謝雪矢
   + 🛖 [https://im.youronly.one](https://im.youronly.one) | 🔏 [Verified](https://im.youronly.one/p/verified/)
-  + Fediverse presence:
-    - [@youronlyone@c.im](https://c.im/@youronlyone) (powered by *Mastodon*)
-    - [@youronlyone@pixelfed.social](https://pixelfed.social/youronlyone) (powered by *Pixelfed*)
-    - [@youronlyone@catodon.social](https://catodon.social/@youronlyone) (powered by *Catodon*)
+  + Social Web presence:
+     - ATmosphere network: [@sera.is.youronly.one](https://aturi.to/profile/sera.is.youronly.one)
+     - Fediverse network: [@youronlyone@c.im](https://fediverse.youronly.one)
 
 ## Acknowledgements & Attributions
 
